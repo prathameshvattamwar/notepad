@@ -4,7 +4,6 @@
 </div>
 
 <h2>Short Summary About Project and Project Preview</h2>
-<br><br>
 <h3 style="color: #444;">Online Notecard</h3>
 
   <p><strong>Online Notecard</strong> is a web application designed to streamline the process of creating, organizing, and managing notes. Built with simplicity and functionality in mind, this app provides a user-friendly interface for taking notes, categorizing them by color, and switching between light and dark themes for better readability.</p>
