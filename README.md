@@ -37,9 +37,9 @@
 
   <h2 style="color: #444;">Getting Started</h2>
   <ol>
-    <li>Clone the repository:
+    <li>Copy and paste URL for Website preview:
       <pre style="background-color: #eaeaea; padding: 10px; border-radius: 5px;">
-        <code>git clone https://github.com/yourusername/online-notecard.git</code>
+        <code>git clone https://prathameshvattamwar.github.io/notepad</code>
       </pre>
     </li>
     <li>Open <code>index.html</code> in your preferred web browser to start using the Online Notecard.</li>
