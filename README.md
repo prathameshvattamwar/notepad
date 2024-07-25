@@ -41,7 +41,6 @@
         <code>git clone https://prathameshvattamwar.github.io/notepad</code>
       </pre>
     </li>
-    <li>Open <code>index.html</code> in your preferred web browser to start using the Online Notecard.</li>
   </ol>
 
   <h2 style="color: #444;">Future Enhancements</h2>
