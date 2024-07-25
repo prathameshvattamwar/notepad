@@ -53,3 +53,18 @@
   </ul>
 
   <p>The <strong>Online Notecard</strong> is perfect for students, professionals, and anyone who needs a simple yet powerful tool to keep their notes organized.</p>
+
+  <h3>Project Preview</h3>
+  <img src="https://i.imgur.com/XZN9W1t.png" />
+  <br>
+
+  <img src="https://i.imgur.com/oHBWksY.png" />
+  <br>
+
+  <img src="https://i.imgur.com/gAznjEa.png" />
+  <br>
+
+  <img src="https://i.imgur.com/df3jJvq.png" />
+  <br>
+
+  <p>Follow me for more project ideas - <a href="https://github.com/prathameshvattamwar">Click here to follow</a></p>
