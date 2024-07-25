@@ -38,7 +38,7 @@
   <ol>
     <li>Copy and paste URL for Website preview:
       <pre style="background-color: #eaeaea; padding: 10px; border-radius: 5px;">
-        <code>git clone https://prathameshvattamwar.github.io/notepad</code>
+        <code>https://prathameshvattamwar.github.io/notepad</code>
       </pre>
     </li>
   </ol>
